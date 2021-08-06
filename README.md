@@ -1,5 +1,5 @@
 👋 Hi, I’m @ZarKyo 
-  French Student 
+  French Student, 
   Infosec learner <br />
   CTF Player <br />
   Team B'Hack'UP <br />
