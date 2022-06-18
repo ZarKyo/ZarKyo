@@ -1,8 +1,8 @@
 👋 Hi, I’m @ZarKyo 
   French Student, 
-  Infosec learner <br />
+  Infosec learner 💻 <br />
   CTF Player <br />
-  Team B'Hack'UP <br />
+  Team B'Hack'UP / glob://al_elite <br />
   
 📫 How to reach me : 
 - Twitter : https://twitter.com/0xZarKyo
@@ -11,6 +11,11 @@
 - CTF Time : 
   - https://ctftime.org/team/150783
   - https://ctftime.org/team/189172
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZarKyo&theme=onedark&show_icons=true&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZarKyo&theme=onedark&layout=compact&hide_border=true">
+</p>
 
 ---
 
