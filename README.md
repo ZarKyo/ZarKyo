@@ -8,7 +8,9 @@
 - Twitter : https://twitter.com/0xZarKyo
 - Root Me : https://www.root-me.org/ZarKyo
 - Hack The Box : https://app.hackthebox.eu/users/525147
-- CTF Time : https://ctftime.org/team/150783
+- CTF Time : 
+  - https://ctftime.org/team/150783
+  - https://ctftime.org/team/189172
 
 ---
 
