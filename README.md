@@ -11,6 +11,8 @@
 - CTF Time : 
   - https://ctftime.org/team/150783
   - https://ctftime.org/team/189172
+- Personnal blog : https://zarkyo.fr/
+- Decoder : https://dcode.zarkyo.fr/
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZarKyo&theme=onedark&show_icons=true&hide_border=true">
