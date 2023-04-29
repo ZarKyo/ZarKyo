@@ -2,7 +2,7 @@
   French Student, 
   Infosec learner 💻 <br />
   CTF Player <br />
-  Team B'Hack'UP / glob://al_elite <br />
+  Team : glob://al_elite <br />
   
 📫 How to reach me : 
 - Twitter : https://twitter.com/0xZarKyo
